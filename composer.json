@@ -1,0 +1,19 @@
+{
+    "name": "tongqin/packagist",
+    "type": "stable",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "我不吃植物",
+            "email": "2756145382@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ineplant\\Packagist\\": "src/"
+        }
+    }
+}
